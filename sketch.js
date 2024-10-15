@@ -1,14 +1,14 @@
 function setup() {
-  createCanvas(180, 170);
+  createCanvas(180, 170)
 }
 
 function draw() {
-  background('lightblue');
+  background('lightblue')
   
-  let bodyColor = "#FF97CE";
-  let eyeColor = "#ffff";
-  let pupilColor = "#000";
-  let mouthColor = "#ff9797";
+  let bodyColor = "#FF97CE"
+  let eyeColor = "#ffff"
+  let pupilColor = "#000"
+  let mouthColor = "#ff9797"
 
   let x = 50
   let y = 50
